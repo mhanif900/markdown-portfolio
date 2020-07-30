@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### __I have some skills:__
+- Programming Languages:computer::
+  - Python
+  - SQL
+- Communication Languages:
+  - Indonesian (_Bahasa Indonesia_) :indonesia:
+  - English :uk:
